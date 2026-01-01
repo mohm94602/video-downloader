@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "yt-dlp-exec": "^1.0.2",
+    "ytdl-core": "^4.11.5"
+  }
+}
